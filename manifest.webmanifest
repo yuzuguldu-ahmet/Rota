@@ -1,0 +1,31 @@
+{
+  "name": "Ahmet'in Rotası",
+  "short_name": "Rota",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B1322",
+  "theme_color": "#0B1322",
+  "lang": "tr",
+  "description": "Günlük program, yol haritası ve motivasyon.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
